@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ambika
 - 👀 I’m interested in learning coding 
-- 🌱 I’m currently learning frontend and dsa simultaneously 
+- 🌱 I’m currently learning data analytics and dsa simultaneously
 - 📫 How to reach me ambikasinhaddn@gmail.com
 
 <!---
